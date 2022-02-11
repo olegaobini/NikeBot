@@ -24,6 +24,7 @@ pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
+pyvenv.cfg
 *.egg
 MANIFEST
 
@@ -131,3 +132,5 @@ dmypy.json
 #Tempe
 tests/*
 temp
+Scripts
+Include

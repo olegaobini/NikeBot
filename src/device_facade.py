@@ -5,8 +5,8 @@ from random import uniform
 from re import search
 from typing import Optional
 
-from nikebo.sleeper import sleeper
-from nikebot.utils import *
+from nikebotandroid.sleeper import sleeper
+from nikebotandroid.utils import *
 
 # How long we're waiting until UI element appears (loading content + animation)
 UI_TIMEOUT_LONG = 5
