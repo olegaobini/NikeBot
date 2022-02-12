@@ -131,6 +131,7 @@ dmypy.json
 
 #Tempe
 tests/*
+test.py
 temp
 Scripts
 Include
